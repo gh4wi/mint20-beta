@@ -1,0 +1,6 @@
+Installed Mint20 Beta on two PC's, tested ok.
+Started Warpinator and discovered neither PC could see the other.
+Killed Firewalld daemon & tested net connection /w Firefox, tested ok.
+Restared Warpinator w/o Firewalld and found it works ok.
+Looks like Warpinator only works with the basic GUFW firewall.
+So what needs to be setup in Firewalld to allow Warpinator to work ?
